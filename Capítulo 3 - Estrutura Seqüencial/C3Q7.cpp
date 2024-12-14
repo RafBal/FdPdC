@@ -5,6 +5,7 @@ int main(void)
 {
     float sal, grat, imp, salreceber;
 
+    std::cout << "Aviso: utilizar ponto no lugar de vírgula para números decimais.";
     imp = (100.0f - 10.0f) / 100.0f; // 10% decrease
     grat = 50;
     std::cout << "Digita o salário base: ";
