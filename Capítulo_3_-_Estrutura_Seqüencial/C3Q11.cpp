@@ -1,6 +1,6 @@
 #include <iostream>
 #include <iomanip>
-#include <cmath>
+#include <cmath> // to enable power calculation
 
 int main(void)
 {
